@@ -1,6 +1,6 @@
 !![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# UWASIC W26: MAC learning table
+# UWASIC W26: Frame Transceiver
 
 ## Getting Started
 
