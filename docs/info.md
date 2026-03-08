@@ -15,6 +15,30 @@ Explain how your project works
 
 Explain how to use your project
 
-## External hardware
+## Weekly Progress
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Annotate your weekly progress here to help us keep on track! For each week, briefly explain what you tested, what you wrote, and where you're stuck (if anywhere). This helps the team stay aligned on implementation status.
+
+## RTL Progress
+
+| Week | Notes |
+|---|---|
+| March 4-10 | |
+| March 11-17 | |
+| March 18-24 | |
+| March 25 - Apr 1 | |
+| April 1+ | |
+
+## Verification Progress
+
+| Week | Notes |
+|---|---|
+| March 4-10 | |
+| March 11-17 | |
+| March 18-24 | |
+| March 25 - Apr 1 | |
+| April 1+ | |
+
+## Other Comments
+
+- 
